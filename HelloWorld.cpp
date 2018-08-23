@@ -1,9 +1,10 @@
 #include iostream
+using namespace std;
 
 int main() {
 
 
-	std::cout << "FightOn!" << std::endl;
+	cout << "FightOn!" << endl;
 
 	return 0;
 }
